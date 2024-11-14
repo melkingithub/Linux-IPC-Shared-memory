@@ -52,5 +52,5 @@ int main()
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/0b2831a5-b90f-43bd-9a4e-60d776942ab4)
 
-# RESULT:
+## RESULT:
 The program is executed successfully.
